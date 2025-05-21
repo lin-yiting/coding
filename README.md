@@ -9,6 +9,7 @@
 ### CPE 2025/03/25
 - P1 UVa 11461 - Square Numbers
 - P2 UVa 10327 - Flip Sort
+- P3 UVa 10815 - Andy's First Dictionary
 
 ### CPE 2024/12/10
 - P1 UVa 12250 - Language Detection
