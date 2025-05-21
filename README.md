@@ -8,6 +8,7 @@
 
 ### CPE 2025/03/25
 - P1 UVa 11461 - Square Numbers
+- P2 UVa 10327 - Flip Sort
 
 ### CPE 2024/12/10
 - P1 UVa 12250 - Language Detection
