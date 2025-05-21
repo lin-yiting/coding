@@ -11,3 +11,4 @@
 
 ### CPE 2024/12/10
 - P1 UVa 12250 - Language Detection
+- P2 UVa 382 - Perfection
