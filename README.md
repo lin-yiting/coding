@@ -5,6 +5,7 @@
 ### CPE 2025/05/20
 - P1 UVa 11063 - B2 Sequence
 - P2 UVa 541 - Error Correction
+- P3 UVa 441 Lotto
 
 ### CPE 2025/03/25
 - P1 UVa 11461 - Square Numbers
